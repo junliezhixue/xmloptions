@@ -1,0 +1,18 @@
+{
+    "name": "junxue/xmloptions",
+    "description": "use for create files and parse files",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "qidongbo",
+            "email": "qidb@jvtd.cn"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "xmlparse\\": "src/"
+        }
+    }
+}
